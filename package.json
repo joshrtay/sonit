@@ -1,0 +1,15 @@
+{
+  "name": "sonit",
+  "description": "Pretty print json to file.",
+  "repository": "git://github.com/joshrtay/sonit.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
