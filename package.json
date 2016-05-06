@@ -2,7 +2,7 @@
   "name": "sonit",
   "description": "Pretty print json to file.",
   "repository": "git://github.com/joshrtay/sonit.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
